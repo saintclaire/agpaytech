@@ -1,0 +1,14 @@
+{
+    "name": "epareto/exercise",
+    "description": "CSV uploader program",
+    "license": "GPL 3.0",
+    "authors": [
+        {
+            "name": "Avell de saint claire",
+            "email": "saintavel@gmail.com"
+        }
+    ],
+    "require": {
+        "league/csv": "^9.8"
+    }
+}
